@@ -18,7 +18,7 @@ function Home() {
         <Header />
             <View style={styles.container}>
                 {<Image source={require('../assets/deliveryman.png')} />}
-                <Text style={styles.title}>Acompanhe os pedidos e {'\n'} entregue no praz!</Text>
+                <Text style={styles.title}>Acompanhe os pedidos e {'\n'} entregue no prazo!</Text>
                 <Text style={styles.subTitle}>Receba todos os pedidos do seu {'\n'} restaurante na palma da mão</Text>
             </View>
             <View style={styles.footer}>
